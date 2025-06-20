@@ -1,5 +1,5 @@
 import React from 'react'
-import { Gamepad2, Twitter, Discord, Youtube, Twitch } from 'lucide-react'
+import { Gamepad2, Twitter, Disc as Discord, Youtube, Twitch } from 'lucide-react'
 
 const Footer = () => {
   return (
