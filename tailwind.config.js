@@ -10,6 +10,7 @@ export default {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       colors: {
+        border: '#334155', // dark-700 equivalent for border utilities
         primary: {
           50: '#f0f9ff',
           100: '#e0f2fe',
